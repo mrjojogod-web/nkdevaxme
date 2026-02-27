@@ -91647,14 +91647,14 @@ $1(a){return B.AB},
 $S:163}
 A.Ne.prototype={
 J(a){var s=null
-return A.bP(s,A.e0(A.b([A.fn("assets/hbner.png",s,55,180),A.AD(s,s,A.hZ(B.HZ,$.cz(),s,s),s,s,this.c,s,s,s)],t.p),B.x,B.cw,B.u,0),B.l,B.j,s,s,s,65,s,new A.ab(8,8,8,8),s,s,s)}}
+return A.bP(s,A.e0(A.b([A.fn("assets/hbner.png",s,55,180),A.AD(s,s,A.hZ(B.HZ,$.cz(),s,40),s,s,this.c,s,s,s)],t.p),B.x,B.cw,B.u,0),B.l,B.j,s,s,s,65,s,new A.ab(8,8,8,8),s,s,s)}}
 A.yX.prototype={
 a7(){var s=t.N,r=t.z
 return new A.TO(A.b([A.ai(["title","\ud83d\udcb3 Activate Card","subtitle","Start using your new credit card instantly.","info","Ensure your card is activated for online and offline transactions.","icon",B.kW,"iconBg",B.jG,"iconColor",B.nQ,"startColor",$.cz(),"endColor",B.jO],s,r),A.ai(["title","\ud83c\udf81 Reward Points","subtitle","Redeem points for gifts and offers.","info","Check your points balance regularly and get exclusive rewards.","icon",B.HS,"iconBg",B.EI,"iconColor",B.nA,"startColor",$.cz(),"endColor",B.F2],s,r),A.ai(["title","\ud83d\udcc8 Increase Limit","subtitle","Request higher limits and enjoy more power.","info","Maintain good credit usage to qualify for higher limits faster.","icon",B.I5,"iconBg",B.ny,"iconColor",B.Fd,"startColor",$.cz(),"endColor",B.Eh],s,r),A.ai(["title","\ud83d\udcca Track Spending","subtitle","Monitor your transactions and manage budgets.","info","View detailed reports of your spending to make smarter choices.","icon",B.HM,"iconBg",B.Fa,"iconColor",B.Ew,"startColor",$.cz(),"endColor",B.EJ],s,r),A.ai(["title","\ud83d\udd12 Secure Transactions","subtitle","All payments are fully encrypted & safe.","info","Enable two-factor authentication for maximum security.","icon",B.I3,"iconBg",B.E9,"iconColor",B.Et,"startColor",$.cz(),"endColor",B.Ej],s,r)],t.H7))}}
 A.TO.prototype={
 aq(){var s=this
 s.aJ()
-s.d=A.aHe(s.e,0.8)
+s.d=A.aHe(s.e,0.9)
 s.f=A.am1(B.cX,new A.ap5(s))},
 l(){var s=this.f
 s===$&&A.a()
@@ -91716,7 +91716,7 @@ $0(){},
 $S:0}
 A.Ko.prototype={
 J(a){var s,r,q=null,p=["Card Activation","Card Deactivate","Card Reward Redeem","Card Protection","Card Separate Merged Card","Apply New Card","Increase Limit","Login"],o=$.cz(),n=t.p
-n=A.b([A.bP(q,A.bu(A.b([A.yW(A.fn("assets/logo.png",q,60,q),B.B,q,q,q,q,q),B.dg,A.aF("Axis Credit Card Services",q,q,q,q,A.eP().$2$color$fontWeight(B.j,B.bG),q,q,q)],n),B.x,B.r,B.u),B.l,o,q,q,q,q,q,B.GK,q,q,q)],n)
+n=A.b([A.bP(q,A.bu(A.b([A.yW(A.fn("assets/logo.png",q,75,q),B.B,q,q,q,q,q),B.dg,A.aF("Axis Credit Card Services",q,q,q,q,A.eP().$2$color$fontWeight(B.j,B.bG),q,q,q)],n),B.x,B.r,B.u),B.l,o,q,q,q,q,q,B.GK,q,q,q)],n)
 for(s=0;s<8;++s){r=p[s]
 n.push(A.aGB(B.Ij,new A.a2I(this,a,r),q,A.aF(r,q,q,q,q,A.eP().$0(),q,q,q),q))}return new A.Mq(A.aBO(n,q,q),q)}}
 A.a2I.prototype={
